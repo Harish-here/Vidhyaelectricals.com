@@ -1,0 +1,25 @@
+{
+  "short_name": "Vidhya Electricals",
+  "name": "Vidhya Electricals Lighting solutions",
+  "icons": [
+    {
+    "src": "icon-128x128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "apple-touch-icon.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  },
+   {
+    "src": "launcher-icon-4x.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#337ab7"
+
+}
